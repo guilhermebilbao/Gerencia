@@ -1,0 +1,8 @@
+@ IN SOA
+@ IN NS bora-bora.rtfm.com.br
+@ IN NS sumatra.rtfm.com.br
+bora-bora IN A 192.168.2.1
+sumatra IN A 192.168.2.2
+
+
+

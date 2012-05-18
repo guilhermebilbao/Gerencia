@@ -1,0 +1,11 @@
+$TTL 86400
+@IN SOA ns.filial.empresa.com.br dnsadmin.empresa.com.br (
+2012042000; serial
+1d; refresh
+1h; retry
+1w; expire
+)
+@IN NS ns1.empresa.com.br
+@IN NS ns.filial.empresa.com.br
+ns IN A 192.168.3.254
+
